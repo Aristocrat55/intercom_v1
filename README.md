@@ -1,1 +1,1 @@
-# intercom_v1
+# intercom_v1 for Home Assistant
